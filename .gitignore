@@ -1,0 +1,3 @@
+**/*.pyc
+./.gitignore
+./db.sqlite3
